@@ -1,0 +1,5 @@
+{"name": "Avoid Overview",
+ "description": "Avoids enabling the overview mode after the user closes the last window in a virtual desktop. Useful when you want to have icons in the desktop",
+ "shell-version": ["3.6"],
+ "uri": "http://www.rastersoft.com",
+ "uuid": "avoidoverview@rastersoft.com"}
