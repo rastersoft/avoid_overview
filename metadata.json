@@ -1,5 +1,5 @@
 {"name": "Avoid Overview",
- "description": "Avoids enabling the overview mode after the user closes the last window in a virtual desktop (but still accessible using the WINDOWS key, the "Activities" button or the hotspots). Useful when you want to have icons in the desktop",
- "shell-version": ["3.6"],
+ "description": "Avoids enabling the overview mode after the user closes the last window in a virtual desktop (but still accessible using the WINDOWS key, the 'Activities' button or the hotspots). Useful when you want to have icons in the desktop",
+ "shell-version": ["3.4","3.6"],
  "url": "https://github.com/rastersoft/avoid_overview",
  "uuid": "avoidoverview@rastersoft.com"}
